@@ -7,7 +7,7 @@ int main() {
 
     printf("Enter the second number: ");
     scanf("%d", &num2);
-    result = num1 - num2;
+  
 
     return 0;
 }
